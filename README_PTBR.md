@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="https://github.com/caiomanique/caiomanique/blob/main/README.md">English version [en]</a>
+    <a href="https://github.com/caiomanique">English version [en]</a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dbfb&height=120&section=header"/>
 
