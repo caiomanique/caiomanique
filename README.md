@@ -17,6 +17,6 @@
 <a href="https://reactjs.org/"><img height= "25" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nodejs.org/en/"><img height= "25" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 
-[![caiomanique's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caiomanique&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![caiomanique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caiomanique&theme=react)](https://github.com/caiomanique/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dbfb&height=120&section=footer"/>
