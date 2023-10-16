@@ -41,7 +41,7 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "24" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "24" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge"></a>
 <a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT Badge"></a>
-<a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual studio code badge"></a>
+<a href="https://code.visualstudio.com/"><img height= "24" src= "https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual studio code badge"></a>
 
 ### Projects and Dev Stuff:
 
